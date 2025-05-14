@@ -1,2 +1,7 @@
-let N = 2, 4, 6, 8, 10, 12, 14, 16, 18, 20;
-console.log("Los primeros 10 múltiplos de 2 son:" + N);
+let N = 4;
+
+for (let i = 4; i <= 13; i++) {
+    if (i % N === 0) {
+        console.log(i);
+    }
+}
