@@ -1,3 +1,4 @@
+//Leer un número entero e informar si este es menor que diecisiete
 let numero = Number(prompt("Ingrese un número: "));
 if (numero < 17) {
     console.log("El número es menor que 17");

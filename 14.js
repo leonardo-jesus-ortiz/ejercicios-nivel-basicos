@@ -1,3 +1,4 @@
+//Área de un triángulo
 let base = prompt("Introduce la base del triángulo: ");
 let altura = prompt("Introduce la altura del triángulo: ");
 let area = (base * altura) / 2;

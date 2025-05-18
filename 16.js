@@ -1,3 +1,4 @@
+//Conversión de horas a minutos y segundos
 let horas = prompt("Introduce la cantidad de horas: ");
 let minutos = horas * 60;
 let segundos = horas * 3600;

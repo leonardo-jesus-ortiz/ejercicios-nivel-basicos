@@ -1,3 +1,4 @@
+//Promedio de tres números
 let num1 = prompt("Introduce el primer número: ");
 let num2 = prompt("Introduce el segundo número: ");
 let num3 = prompt("Introduce el tercer número: ");
